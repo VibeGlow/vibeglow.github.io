@@ -13,7 +13,7 @@ logo = "logo.png"
 description = "home"
 
 [[params.author.links]]
-email = "vibeglow@posteo.de"
+email = "mailto:vibeglow@posteo.de"
 
 [[params.author.links]]
 instagram = "https://www.instagram.com/vibe.glow.lights/"
