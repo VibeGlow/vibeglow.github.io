@@ -57,6 +57,7 @@ Note that images and videos can not capture the extensive visual experience.
 ### Shoutouts
 
 [Fractals](https://en.wikipedia.org/wiki/Fractal/)
+
 [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay)
 [Ready To Fog](https://readytofog.de/)
 
