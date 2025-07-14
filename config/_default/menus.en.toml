@@ -15,11 +15,11 @@ none = "none"
   parent = "**exhibits**"
   pageRef = "/exhibits/shadow-valley"
   weight = 11
-[[main]]
-  name = "bars"
-  parent = "**exhibits**"
-  pageRef = "exhibits/bars"
-  weight = 12
+# [[main]]
+#   name = "bars"
+#   parent = "**exhibits**"
+#   pageRef = "exhibits/bars"
+#   weight = 12
 
 
 [[main]]
