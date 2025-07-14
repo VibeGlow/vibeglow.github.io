@@ -1,0 +1,49 @@
+[[main]]
+none = "none"
+
+[[main]]
+  name = "**home**"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
+  name = "**exhibits**"
+  pageRef = "/exhibits"
+  weight = 10
+[[main]]
+  name = "shadow valley"
+  parent = "**exhibits**"
+  pageRef = "/exhibits/shadow-valley"
+  weight = 11
+[[main]]
+  name = "bars"
+  parent = "**exhibits**"
+  pageRef = "exhibits/bars"
+  weight = 12
+
+
+[[main]]
+name = "**me**"
+pageRef = "me"
+weight = 20
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:vibeglow@posteo.de"
+  weight = 30
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/vibe.glow.lights"
+  weight = 40
+
+# [[main]]
+#   identifier = "github"
+#   pre = "github"
+#   url = "https://github.com/VibeGlow"
+#   weight = 50
+
+[[footer]]
+none = "none"

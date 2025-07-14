@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = ""
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "home"
+
+[[params.author.links]]
+email = "vibeglow@posteo.de"
+
+[[params.author.links]]
+instagram = "https://www.instagram.com/vibe.glow.lights/"
+
+# [[params.author.links]]
+# github = "https://github.com/VibeGlow"
+
+["params.author"]
+name = ""
+headline = "interdisciplinary light art / programming / design & build / operating"
+image = "avatar.jpeg"
