@@ -18,18 +18,18 @@ Note that images and videos can not capture the extensive visual experience.
   <img src="/02-shadow-valley/images/232132495.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/02-shadow-valley/images/021642117.jpg " class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/02-shadow-valley/images/050304195.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/02-shadow-valley/images/141618578.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/02-shadow-valley/images/203820278.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/02-shadow-valley/images/141557528.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="/02-shadow-valley/images/141618578.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 
   <video muted loop controls preload="auto" class="grid-w50 md:grid-w33 xl:grid-w25">
     <source src="/video/bg2.webm" type="video/webm">
     <source src="/video/bg2.mp4" type="video/mp4">
     <source src="/video/bg2.m4v" type="video/mp4">
   </video>
-  <!-- <video muted loop controls preload="auto" class="grid-w50 md:grid-w33 xl:grid-w25"> -->
-  <!--   <source src="/02-shadow-valley/videos/214240268.LS.mp4" type="video/mp4"> -->
-  <!-- </video> -->
+  <video muted loop controls preload="auto" class="grid-w50 md:grid-w33 xl:grid-w25">
+    <source src="/02-shadow-valley/videos/214240268-lq.mp4" type="video/mp4">
+  </video>
   <!-- <video muted loop controls preload="auto" class="grid-w50 md:grid-w33 xl:grid-w25"> -->
   <!--   <source src="/02-shadow-valley/videos/211956467.LS.mp4" type="video/mp4"> -->
   <!-- </video> -->
@@ -59,6 +59,7 @@ Note that images and videos can not capture the extensive visual experience.
 [Fractals](https://en.wikipedia.org/wiki/Fractal/)
 
 [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay)
+
 [Ready To Fog](https://readytofog.de/)
 
 
