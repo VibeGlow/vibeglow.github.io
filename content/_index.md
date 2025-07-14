@@ -1,5 +1,5 @@
 ---
-title: "hello there :wave:"
+title: "hello there -- interdisciplinary light art"
 ---
 <br>
 
