@@ -6,12 +6,13 @@ title: "hello there -- interdisciplinary light art"
 {{< timeline >}}
 
   {{< timelineItem icon="wand-magic-sparkles">}}
-    21.08.2025 - 25.08.2025 &nbsp; {{< icon "image" >}}{{< icon "music" >}} <br> N.N. 
+    <!-- 21.08.2025 - 25.08.2025 &nbsp; {{< icon "image" >}}{{< icon "music" >}} <br> N.N.  -->
+    21.08.2025 &nbsp; {{< icon "image" >}}{{< icon "music" >}} <br> N.N. 
   {{< /timelineItem >}}
 
-  <!-- {{< timelineItem icon="wand-magic-sparkles">}} -->
-  <!--   19.09.2025 &nbsp; {{< icon "music" >}} <br> Assletrance <br> AJZ Bielefeld -->
-  <!-- {{< /timelineItem >}} -->
+  {{< timelineItem icon="wand-magic-sparkles">}}
+    26.07.2025 &nbsp; {{< icon "music" >}} <br> Rasselzentrale 2025 
+  {{< /timelineItem >}}
 
   {{< timelineItem icon="check"  >}}
     22.03.2025 &nbsp; {{< icon "image" >}}{{< icon "music" >}} <br> Spektrum / NotExist <br> Hechelei 
