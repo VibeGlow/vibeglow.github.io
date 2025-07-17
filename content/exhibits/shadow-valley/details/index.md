@@ -3,7 +3,6 @@ title: "Shadow Valley Build Log"
 date: 2025-07-06
 description: "Where there is light, there are shadows."
 weight: 90
-headless: true
 ---
 
 Where there is light, there are shadows.
